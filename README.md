@@ -14,3 +14,5 @@ Cíl projektU : Vytvořit stránku Formule 1, kde bude jak obecný přehled, his
 Inspirace a data budu brát ze stránky https://www.formula1.com/
 
 Současná tabulka jezdců v šmmpionátě https://www.formula1.com/en/results/2025/drivers
+
+Harmonogram : Hlavní stránka, teamy, jezdci, tratě, autobiografie, žebříček, historický kontext stránka, api, ostatní
